@@ -1,0 +1,18 @@
+{
+  "name": "CozyBoard — Personal Productivity Canvas",
+  "short_name": "CozyBoard",
+  "description": "A cute, animated, offline-first personal productivity board and infinite canvas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFDF9",
+  "theme_color": "#EDE9FE",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
